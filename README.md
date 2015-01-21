@@ -35,7 +35,9 @@ The data for example `X` lives in a set of sub-directories as follows:
 * `$ROOTDIR/Corrected/` contains the extracted content named `X.html.corrected.txt`
 
 The "Corrected" files separate the main article from comments with the
-special string `!@#$%^&*()  COMMENTS`.  Any text appearing before this string
+special string:
+```!@#$%^&*()  COMMENTS```
+Any text appearing before this string
 in the file is the main article, text after belongs to comments.
 
 #### Additional data sources
