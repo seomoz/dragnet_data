@@ -40,6 +40,11 @@ special string:
 Any text appearing before this string
 in the file is the main article, text after belongs to comments.
 
+#### Training/test split
+
+The files `train.txt` and `test.txt` list the files in the training and test
+sets, respectively.
+
 #### Additional data sources
 
 Tim Weninger provides the data used in his paper at
