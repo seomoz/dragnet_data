@@ -10,6 +10,8 @@ be open sourced, even if they are provided as a service.  Our intention
 here is to freely provide for research/non-commercial purposes, and
 to allow commercial use as long as it is open sourced.
 
+The data was collected in 2012 by [Kurtis Bohrnstedt](http://moz.com/about/team/kurtisbohrnstedt).
+
 ## Installing
 
 ```
